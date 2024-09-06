@@ -1,4 +1,4 @@
-Hi, I really like to code!<br />
+Hi!<br />
 <br />
 Within the my internship and projects, the summary of of my skills are below: <br />
 **Interface:** *CSS, Bootstrap, JavaFX, Tkinter, Tailwind, W3Schools* <br />
