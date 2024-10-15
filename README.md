@@ -7,6 +7,6 @@ Within the my internship and projects, the summary of of my skills are below: <b
 **Tools:** *Version Control, NPM, Unity, Microsoft SQL Server, Power Apps, SharePoint/Excel/Access, MongoDB.* <br />
 <br />
 I took electives in German I, German II and Japanese I. I know the basics of several other languages as languages are my hobby :). <br />
-Other than I am an avid musician who likes metalcore to k-pop and I have two guinea pigs! <br />
+Other than that, I am an avid musician who likes metalcore to k-pop and I have two guinea pigs! <br />
 <br />
 Thanks for the taking the time to check out my stuff ♥.
